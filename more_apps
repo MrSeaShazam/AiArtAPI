@@ -1,0 +1,25 @@
+{
+  "moreApps": [
+  {
+   "appImageLink": "com.live.maxtv",
+    "appLink": "com.live.maxtv",
+     "appName": "com.live.maxtv"
+  },
+   {
+   "appImageLink": "com.live.maxtv",
+    "appLink": "com.live.maxtv",
+     "appName": "com.live.maxtv"
+  },
+   {
+   "appImageLink": "com.live.maxtv",
+    "appLink": "com.live.maxtv",
+     "appName": "com.live.maxtv"
+  }
+  ],
+  "package": "com.live.maxtv",
+  "new_link": "https://play.google.com/store/apps/details?id=com.live.maxtv",
+  "appLink": "Let's watch dramas, movies and news on Max TV! It's a fast, and simple app we can use to watch entertainments for free. Get it at https://play.google.com/store/apps/details?id=com.live.maxtv",
+  "bannedCountryList": [
+    "hl=en-pk"
+  ]
+}
