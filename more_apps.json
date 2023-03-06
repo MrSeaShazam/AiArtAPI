@@ -1,19 +1,19 @@
 {
   "moreApps": [
   {
-   "appImageLink": "com.live.maxtv",
+   "appImageLink": "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.slideshow-xlarge_2x.jpg",
     "appLink": "com.live.maxtv",
-     "appName": "com.live.maxtv"
+     "appName": "sample 1"
   },
    {
-   "appImageLink": "com.live.maxtv",
+   "appImageLink": "https://image.cnbcfm.com/api/v1/image/106893223-1623085611095Screen-Shot-2021-06-07-at-1-04-36-PM-png?v=1673373870&w=929&h=523&vtcrop=y",
     "appLink": "com.live.maxtv",
-     "appName": "com.live.maxtv"
+     "appName": "sample 2"
   },
    {
-   "appImageLink": "com.live.maxtv",
+   "appImageLink": "https://fscl01.fonpit.de/userfiles/7687254/image/NextPit_Apps.jpg",
     "appLink": "com.live.maxtv",
-     "appName": "com.live.maxtv"
+     "appName": "sample 3"
   }
   ],
   "package": "com.live.maxtv",
