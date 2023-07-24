@@ -1,25 +1,35 @@
 {
   "moreApps": [
   {
-   "appImageLink": "https://play-lh.googleusercontent.com/DahU2itmCu2DR2AVJ0BBDw9VbduIjKt4Bs9xyNjYoO0AOcKrCAS9KZ1GTkZ09qaY6KmL=w416-h235-rw",
-    "appLink": "https://play.google.com/store/apps/details?id=com.mindbuffer.videodownloader",
-     "appName": "Video Downloader"
+   "appImageLink": "https://play-lh.googleusercontent.com/uicMftraXnsBnROuu89I0xkPYyUxgmdhj9u--nHlfAAxu9QUiZ2soVxq6gcebhtCYQ=w416-h235-rw",
+    "appLink": "https://play.google.com/store/apps/details?id=com.adsfreetube.vanced",
+     "appName": "PlayTube Pro - Block Video Ads"
   },
     {
-   "appImageLink": "https://pimages.toolbox.com/wp-content/uploads/2022/12/26124808/Mobile-Apps.jpg",
-    "appLink": "https://play.google.com/store/apps/details?id=com.mindbuffer.videodownloader",
-     "appName": "Video Downloader"
+   "appImageLink": "https://play-lh.googleusercontent.com/eoqRjgsmW1F0TpWT_pdVhlEr9mqUGYDkNrb4LIHocB73Q3de17YC-eloD1dTs8111G2t=w416-h235-rw",
+    "appLink": "https://play.google.com/store/apps/details?id=com.boom.tiktokdownloader",
+     "appName": "Tiktok Video Downloader Pro"
   },
     {
-   "appImageLink": "https://www.netsolutions.com/insights/wp-content/uploads/2019/05/Top-10-Most-Popular-Apps-1.jpg",
-    "appLink": "https://play.google.com/store/apps/details?id=com.mindbuffer.videodownloader",
-     "appName": "Video Downloader"
+   "appImageLink": "https://play-lh.googleusercontent.com/4Nw7Pmxsl_yEtwWJ4mleBB5RIbcDDotj8kyIJ2VfZrXG2SevCGTmJ3008iiBPwY12WQ=w416-h235-rw",
+    "appLink": "https://play.google.com/store/apps/details?id=com.monomaster.image_master",
+     "appName": "Image Pro - Background Remover"
+  },
+    {
+   "appImageLink": "https://play-lh.googleusercontent.com/7vRKY7rEV0U7dCCj47XIuhCTsiASJX_yr1TUQPZjGT3zXuZoQ-Uy_2CHWBZAwSKYgg=w416-h235-rw",
+    "appLink": "https://play.google.com/store/apps/details?id=com.boom.videodownloader",
+     "appName": "Video Downloader HD Pro"
+  },
+    {
+   "appImageLink": "https://play-lh.googleusercontent.com/CeoffqMMBTsuRIAUY_u2fNcGQqck_lADZRLXBYktrHgoK3JjlS4LYwKz81ZXSCUhYgKN=w416-h235-rw",
+    "appLink": "https://play.google.com/store/apps/details?id=com.sega.smart.iptv",
+     "appName": "IPTV Player: Chromecast"
   }
   ],
   "showMoreApps": false,
-  "package": "com.cronocrox.aiart",
-  "new_link": "https://play.google.com/store/apps/details?id=com.mindbuffer.aiart",
-  "appLink": "Let's Redefining the Boundaries of Art with AI, Get it at https://play.google.com/store/apps/details?id=com.mindbuffer.aiart",
+  "package": "com.aiart.blog",
+  "new_link": "https://play.google.com/store/apps/details?id=com.sennn.aiart",
+  "appLink": "Let's Redefining the Boundaries of Art with AI, Get it at https://play.google.com/store/apps/details?id=com.sennn.aiart",
   "bannedCountryList": [
     "hl=en-pk"
   ]
