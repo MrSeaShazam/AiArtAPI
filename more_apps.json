@@ -24,6 +24,16 @@
    "appImageLink": "https://play-lh.googleusercontent.com/CeoffqMMBTsuRIAUY_u2fNcGQqck_lADZRLXBYktrHgoK3JjlS4LYwKz81ZXSCUhYgKN=w416-h235-rw",
     "appLink": "https://play.google.com/store/apps/details?id=com.sega.smart.iptv",
      "appName": "IPTV Player: Chromecast"
+  },
+    {
+   "appImageLink": "https://play-lh.googleusercontent.com/u0OL9WPibYSBgbGinLO8PZ9yfxJfx4urfGc4ymXNj7BrlvUnStUNDIOPYq2Nho9cSu_a=w416-h235-rw",
+    "appLink": "https://play.google.com/store/apps/details?id=com.cronocrox.aiart",
+     "appName": "Ai Art Generator"
+  },
+    {
+   "appImageLink": "https://play-lh.googleusercontent.com/yAePyjbamp9eHDDyySchcligljbMwOteur4RQ5eZRdgox5y29kSYbwf4NJDdDfNjmN8=w416-h235-rw",
+    "appLink": "https://play.google.com/store/apps/details?id=com.mountainheights.ytv_player",
+     "appName": "YTV Player Cast"
   }
   ],
   "showMoreApps": false,
