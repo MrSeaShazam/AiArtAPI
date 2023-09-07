@@ -1,6 +1,11 @@
 {
   "yt_cricket_score": [
     {
+      "channelImageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Cricket_ball.svg/2048px-Cricket_ball.svg.png",
+      "channelLink": "https://www.google.com/search?q=cricet&rlz=1C5CHFA_enPK1035PK1035&oq=cricet&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIPCAEQABgKGIMBGLEDGIAEMg8IAhAAGAoYgwEYsQMYgAQyDwgDEAAYChiDARixAxiABDIPCAQQABgKGIMBGLEDGIAEMg8IBRAuGAoYgwEYsQMYgAQyDwgGEAAYChiDARixAxiABDIMCAcQABgKGLEDGIAEMg8ICBAAGAoYgwEYsQMYgAQyDwgJEAAYChiDARixAxiABNIBCDcyMjNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#sie=lg;/g/11s3y7wsbk;5;/m/021q23;mt;fp;1;;;",
+      "channelName": "Live Scores"
+    },
+    {
       "channelImageLink": "https://play-lh.googleusercontent.com/DR77tjTRELjjz08osmWgvIFyUvkbQItRf0II8r-eaIzLDOH9YGxSIfIrcToj3IOriyc",
       "channelLink": "https://www.cricbuzz.com/cricket-match/live-scores",
       "channelName": "Cricbuzz"
