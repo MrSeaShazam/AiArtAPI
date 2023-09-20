@@ -3,7 +3,7 @@
   "TptvLandscape": 3,
   "ytvPlayer": 100,
   "ZeeTube": {
-    "counter": 100,
+    "counter": 1,
     "ServerUrl": "api_url"
   }
 }
