@@ -4,6 +4,6 @@
   "ytvPlayer": 100,
   "ZeeTube": {
     "counter": 100,
-    "ServerUrl": "https://pipedapi.syncpundit.io"
+    "ServerUrl": "api_url"
   }
 }
