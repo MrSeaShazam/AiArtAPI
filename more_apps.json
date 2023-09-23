@@ -33,7 +33,12 @@
     {
    "appImageLink": "https://play-lh.googleusercontent.com/yAePyjbamp9eHDDyySchcligljbMwOteur4RQ5eZRdgox5y29kSYbwf4NJDdDfNjmN8=w416-h235-rw",
     "appLink": "https://play.google.com/store/apps/details?id=com.mountainheights.ytv_player",
-     "appName": "YTV Player Cast"
+     "appName": "YTV Player"
+  },
+    {
+   "appImageLink": "https://play-lh.googleusercontent.com/FxofyuKZBwkliVz6UZuTn4i0f76f-W30UYRmRQ_snnf7Hnn7b0BNEMt7AEuW71XbBTk=w416-h235-rw",
+    "appLink": "https://play.google.com/store/apps/details?id=all.mirror.screen.stream",
+     "appName": "Screen Mirroring - Miracast"
   }
   ],
   "showMoreApps": false,
