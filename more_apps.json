@@ -43,6 +43,8 @@
   ],
   "showMoreApps": false,
   "package": "com.aiart.blog",
+  "apiKeyAiArt": "hotpot-t81011n88MmVw8uaDzmoBq",
+  "base_url": "com.aiart.blog",
   "new_link": "https://play.google.com/store/apps/details?id=com.sennn.aiart",
   "appLink": "Let's Redefining the Boundaries of Art with AI, Get it at https://play.google.com/store/apps/details?id=com.sennn.aiart",
   "bannedCountryList": [
