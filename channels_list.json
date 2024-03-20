@@ -1,39 +1,9 @@
 {
   "yt_cricket_channels": [
     {
-      "channelImageLink": "https://yt3.googleusercontent.com/HiyB6TsOVuBfveVW6DCaXVidTcE9VTirpLmmKziyYOeRlUvBle5A26Tx2HOAZbVvkcQ4BvGBWho=s176-c-k-c0x00ffffff-no-rj",
-      "channelLink": "https://www.youtube.com/@tamasha.digital/videos",
+      "channelImageLink": "https://cdn-icons-png.flaticon.com/128/10/10552.png",
+      "channelLink": "https://www.google.com/search?q=cricket+highlights&rlz=1C5CHFA_enPK996PK996&oq=cricket+high&gs_lcrp=EgZjaHJvbWUqCggBEAAYsQMYgAQyBggAEEUYOTIKCAEQABixAxiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiPAtIBCDc5MjhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8",
       "channelName": "Tamasha"
-    },
-    {
-      "channelImageLink": "https://yt3.googleusercontent.com/vSIigae69q9Czd1aj1mu1ryVWv455tRgMSVe1iAF9GUY9VAHEqtwXzNoWIlWfQIcSTNjiMEpDw=s176-c-k-c0x00ffffff-no-rj",
-      "channelLink": "https://www.youtube.com/@tapmad4687/videos",
-      "channelName": "Tapmad"
-    },
-    {
-      "channelImageLink": "https://yt3.googleusercontent.com/CtDptED4vy96cZu4EjxxpCwjTberXF_4zPe6MSeuNOe4JcfbCjk79HpotdJpW2IECiyxKGNz=s176-c-k-c0x00ffffff-no-rj",
-      "channelLink": "https://www.youtube.com/@VidlyTV/videos",
-      "channelName": "Vidly"
-    },
-    {
-      "channelImageLink": "https://yt3.googleusercontent.com/6aLGUKNgK97FyqShBOoJwUd1kUtIJfDbx8Pvt31ceLmboNWMADnDSX7KsDxWrGWkLuPUO5vYpA=s176-c-k-c0x00ffffff-no-rj",
-      "channelLink": "https://www.youtube.com/@AsianCricketCouncilTV/videos",
-      "channelName": "Asian Cricket Council"
-    },
-    {
-      "channelImageLink": "https://yt3.googleusercontent.com/s9df-2X8UQQBs8UfLfeXgxI8tfmEOmVi971l9hvzYfi7XQihr0xCjqtuaHY_uXgSinOwk2DImA=s176-c-k-c0x00ffffff-no-rj",
-      "channelLink": "https://www.youtube.com/@OfficialCPLT20/videos",
-      "channelName": "CPL T20"
-    },
-    {
-      "channelImageLink": "https://yt3.googleusercontent.com/OuFgQW8PFZZRlUEH1cyhWBa-cNnyV6bj5JrIA2Vr9OOBYtnA2XeGp6Q-B8-Xpwk-Wc8WlDihQg=s176-c-k-c0x00ffffff-no-rj",
-      "channelLink": "https://www.youtube.com/@PakistanSuperLeagueOfficial/videos",
-      "channelName": "Pakistan Super League"
-    },
-    {
-      "channelImageLink": "https://yt3.googleusercontent.com/6OBUmNVrNl74OLYgxdnxJ82JDzFX7iS2EnYlNzLROlNE1lbnd3QjBLmRQDeBzfk0yM2wAjFh=s176-c-k-c0x00ffffff-no-rj",
-      "channelLink": "https://www.youtube.com/@pakistancricket",
-      "channelName": "Pakistan Cricket"
     }
   ]
 }
